@@ -1,3 +1,6 @@
 #!/bin/sh
 
-unzip output/desert-cat.sb -d src//
+TARGET=desert-cat
+
+unzip output/${TARGET}.sb2 -d src
+
