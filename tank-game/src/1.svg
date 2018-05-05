@@ -1,0 +1,16 @@
+<svg version="1.1" width="15" height="15" viewBox="-1 -1 15 15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient id="grad_1" cx="0.41369999999999996" cy="0.21050000000000002" r="1.02635">
+      <stop offset="0" stop-color="#FF0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"/>
+    </radialGradient>
+    <radialGradient id="grad_2" cx="0.3285" cy="0.5" r="0.87295">
+      <stop offset="0" stop-color="#FF0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <image id="ID0.35544317588210106" width="26" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAA6ElEQVR42mNhIADU1NT+M5ABbt26xYjMZ2GgE2Ah5JML003BfFZRQ5IM1g6Z9R/ZZwPnI2J9wsIrh1X8z+dHYPrqmjQUn9HfR+rq6rUg+v9/1ET2+/V5FD7MhzCXo/sQRmPI081HSD5xIEYDIR/iiruBz0cMX3+BqY+P34Jpfg1JvD4klM8GgY/IBOipbfD66OON5xTF1eDxEb+sMErqg/kMLk/Ah4PCR/tAhEHJRSdwKd6jj+IzYksOg8zTDANbHzEyMh5AK/NQfDZ02wy4fEYsgOkfuHx08+bNZuQalpDLCAGYeQPmIwDNSGigc5s3dQAAAC10RVh0U29mdHdhcmUAYnkuYmxvb2RkeS5jcnlwdG8uaW1hZ2UuUE5HMjRFbmNvZGVyqAZ/7gAAAABJRU5ErkJggg==" transform="matrix(0.5, 0, 0, 0.5, 0, 0)"/>
+  <path id="ID0.5856299297884107" fill="none" stroke="url(#grad_1)" stroke-width="2" d="M 240 177.400 C 240.524 177.400 240.999 177.607 241.343 177.942 C 241.687 178.277 241.900 178.740 241.900 179.250 C 241.900 179.760 241.687 180.223 241.343 180.558 C 240.999 180.893 240.524 181.100 240 181.100 C 239.476 181.100 239.001 180.893 238.657 180.558 C 238.313 180.223 238.100 179.760 238.100 179.250 C 238.100 178.740 238.313 178.277 238.657 177.942 C 239.001 177.607 239.476 177.400 240 177.400 Z " transform="matrix(1, 0, 0, 1, -232.55, -174)"/>
+  <path id="ID0.7168433479964733" fill="url(#grad_2)" stroke="#FF0000" d="M 239.500 175.500 C 240.438 175.500 241.288 175.892 241.904 176.526 C 242.519 177.159 242.900 178.034 242.900 179 C 242.900 179.966 242.519 180.841 241.904 181.474 C 241.288 182.108 240.438 182.500 239.500 182.500 C 238.562 182.500 237.712 182.108 237.096 181.474 C 236.481 180.841 236.100 179.966 236.100 179 C 236.100 178.034 236.481 177.159 237.096 176.526 C 237.712 175.892 238.562 175.500 239.500 175.500 Z " transform="matrix(1.1785714626312256, 0, 0, 1.1785714626312256, -274.8, -205.65)"/>
+</svg>
