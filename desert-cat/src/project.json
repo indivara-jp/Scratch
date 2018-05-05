@@ -5,10 +5,10 @@
 			"value": 0,
 			"isPersistent": false
 		}],
-	"scripts": [[10, 98, [["whenIReceive", "play"]]],
-		[10,
-			142,
-			[["doPlaySoundAndWait", "medieval1"],
+	"scripts": [[10,
+			98,
+			[["whenIReceive", "play"],
+				["doPlaySoundAndWait", "medieval1"],
 				["doIf", ["=", ["readVariable", "playing"], "1"], [["broadcast:", "play"]]]]],
 		[220, 215, [["whenIReceive", "scroll left"], ["startScene", "previous backdrop"], ["changeGraphicEffect:by:", "color", -5]]],
 		[10, 10, [["whenIReceive", "start"], ["setVar:to:", "playing", "1"], ["broadcast:", "play"]]],
@@ -17,7 +17,6 @@
 		[222,
 			314,
 			[["whenIReceive", "stop"], ["stopAllSounds"], ["setVar:to:", "playing", 0], ["filterReset"]]]],
-	"scriptComments": [[216, 143, 152, 68, false, 1, "annoying, disabled"]],
 	"sounds": [{
 			"soundName": "medieval1",
 			"soundID": 2,
@@ -50,7 +49,7 @@
 			"rotationCenterX": 480,
 			"rotationCenterY": 360
 		}],
-	"currentCostumeIndex": 1,
+	"currentCostumeIndex": 0,
 	"penLayerMD5": "5c81a336fab8be57adc039a8a2b33ca9.png",
 	"penLayerID": 0,
 	"tempoBPM": 60,
@@ -412,11 +411,11 @@
 					"rotationCenterX": 84,
 					"rotationCenterY": 91
 				}],
-			"currentCostumeIndex": 8,
-			"scratchX": 140,
+			"currentCostumeIndex": 6,
+			"scratchX": 0,
 			"scratchY": 0,
 			"scale": 0.3,
-			"direction": 90,
+			"direction": 0,
 			"rotationStyle": "leftRight",
 			"isDraggable": false,
 			"indexInLibrary": 1,
@@ -426,11 +425,11 @@
 		}],
 	"info": {
 		"projectID": "179931964",
+		"userAgent": "Scratch 2.0 Offline Editor",
 		"spriteCount": 3,
 		"swfVersion": "v460",
 		"hasCloudData": false,
 		"flashVersion": "MAC 27,0,0,130",
-		"userAgent": "Scratch 2.0 Offline Editor",
 		"scriptCount": 16,
 		"videoOn": false
 	}
